@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gauri/Downloads/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_01/Start/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/gauri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/1eb1c8e7c8cabf05d3d4bec5ece84b70/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

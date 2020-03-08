@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 08 21:55:17 IST 2020
+0.baseType=DIRECTORY
+0.base=/Users/gauri/Downloads/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch02/02_01/Start/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
